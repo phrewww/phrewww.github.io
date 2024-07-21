@@ -209,6 +209,8 @@ blockquote {
 >
 >[Whitepaper](https://arxiv.org/abs/2403.01081)
 
+InstructLab is an open-source project developed by IBM and Red Hat, designed to enhance the capabilities of large language models (LLMs) through a community-driven approach. The project focuses on improving LLMs used in generative AI applications by leveraging a taxonomy-based curation process and synthetic data generation.
+
 # instructlab SDG
 
 >[Instructlab Synthetic Data Generation](https://github.com/instructlab/sdg)
