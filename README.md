@@ -200,5 +200,11 @@ blockquote {
   border-left: 3px solid #01ff70;
   padding-left: 1rem;
 }
-  </style>
-test
+</style>
+# intstructlab
+[instructlab.ai](https://instructlab.ai/)
+[Instructlab GitHub](https://github.com/instructlab)
+[Whitepaper](https://arxiv.org/abs/2403.01081)
+
+# instructlab SDG
+[Inrtructlab Synthetic Data Generation](https://github.com/instructlab/sdg)
