@@ -215,6 +215,7 @@ InstructLab is an open-source project developed by IBM and Red Hat, designed to 
 
 >[Instructlab Synthetic Data Generation](https://github.com/instructlab/sdg)
 
+InstructLab SDG (Synthetic Data Generation) is a Python library developed as part of the InstructLab project, which is aimed at enhancing large language models (LLMs) through synthetic data. The library focuses on generating high-quality synthetic data to fine-tune LLMs, improving their performance and capabilities with less reliance on extensive human-generated data.
 
 
 
